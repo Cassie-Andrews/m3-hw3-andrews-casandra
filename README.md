@@ -1,4 +1,5 @@
 # m3-hw3-andrews-casandra
-images/Lighthouse report 1.png
-images/Lighthouse report 2.png
-images/Lighthouse report 3.png
+https://vscode.dev/github/Cassie-Andrews/m3-hw3-andrews-casandra/blob/main/images/Lighthouse%20report%201.png
+https://vscode.dev/github/Cassie-Andrews/m3-hw3-andrews-casandra/blob/main/images/Lighthouse%20report%202.png
+https://vscode.dev/github/Cassie-Andrews/m3-hw3-andrews-casandra/blob/main/images/Lighthouse%20report%203.png
+
